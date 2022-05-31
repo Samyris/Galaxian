@@ -6,9 +6,9 @@ Professor:
     Glender Brás.
 ---------------------------------------
 Desenvolvedores:
-    Eduardo Gomes
-    Leonardo
-    Luan Felipe
-    Samyris
+    -Eduardo Gomes
+    -Leonardo
+    -Luan Felipe
+    -Samyris
     
 
