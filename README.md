@@ -7,10 +7,7 @@ Professor:
     
 Desenvolvedores:
 ---------------------------------------
-Desenvolvedores:
-    - Eduardo Gomes
-    - Leonardo
-    - Luan Felipe
-    - Samyris
-    
-
+- Eduardo Gomes
+- Leonardo
+- Luan
+- Samyris
