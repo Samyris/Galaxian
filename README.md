@@ -11,3 +11,10 @@ Desenvolvedores:
 - Leonardo
 - Luan
 - Samyris
+
+Lista de itens adicionais implementados em seu jogo
+------------------------
+- 
+- 
+- 
+- 
