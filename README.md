@@ -7,10 +7,10 @@ Professor:
     
 Desenvolvedores:
 ---------------------------------------
-- Eduardo Gomes
-- Leonardo
-- Luan
-- Samyris
+- Eduardo Gomes de Freitas
+- Leonardo Gonçalves Grossi
+- Luan Felipe Santos Alves
+- Samyris Alves Rodrigues
 
 Lista de itens adicionais implementados em seu jogo
 ------------------------
