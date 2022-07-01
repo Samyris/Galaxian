@@ -45,3 +45,6 @@ Devido ao uso da estrutura de dados Lista para a implementação dos inimigos el
  que se adapta a inimigos serem mortos, dando uma aparência mais dinâmica e fazendo o código mais eficiente.
   Um novo inimigo assume o papel de ser aquele cuja colisão será testada nas margens.
    inimigos não são mais testados para nada depois de mortos, são simplesmente removidos da memoria.
+   
+   
+Link do vídeo no YouTube: https://www.youtube.com/watch?v=Zqq2Svu5K_U&t=51s
